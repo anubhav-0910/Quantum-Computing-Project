@@ -30,3 +30,8 @@ Grover's algorithm, developed by Lov Grover in 1996, is a quantum algorithm for 
 
 For a detailed explanation and implementation of Grover's algorithm, please refer to the [Grover's Algorithm tutorial](grover_algorithm.ipynb) notebook.
 
+## References
+
+- Nielsen, M. A., & Chuang, I. L. (2010). Quantum computation and quantum information. Cambridge university press.
+- Shor, P. W. (1994). Algorithms for quantum computation: discrete logarithms and factoring. In Proceedings 35th annual symposium on foundations of computer science (pp. 124-134). IEEE.
+- Grover, L. K. (1996). A fast quantum mechanical algorithm for database search. In Proceedings, 28th annual ACM symposium on the theory of computing (pp. 212-219). ACM.
