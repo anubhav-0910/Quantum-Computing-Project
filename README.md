@@ -15,7 +15,7 @@ Shor's algorithm, formulated by Peter Shor in 1994, is a quantum algorithm for i
 - Implementation using Qiskit
 - Example Circuit and Results
 
-For a detailed explanation and implementation of Shor's algorithm, please refer to the [Shor's Algorithm tutorial](shors_algorithm.ipynb) notebook.
+For a detailed explanation and implementation of Shor's algorithm, please refer to the [Shor's Algorithm tutorial](shor_algorithm.ipynb) notebook.
 
 ## Grover's Algorithm for Unstructured Search
 
@@ -28,5 +28,5 @@ Grover's algorithm, developed by Lov Grover in 1996, is a quantum algorithm for 
 - Implementation using Qiskit
 - Example Circuit and Results
 
-For a detailed explanation and implementation of Grover's algorithm, please refer to the [Grover's Algorithm tutorial](grovers_algorithm.ipynb) notebook.
+For a detailed explanation and implementation of Grover's algorithm, please refer to the [Grover's Algorithm tutorial](grover_algorithm.ipynb) notebook.
 
